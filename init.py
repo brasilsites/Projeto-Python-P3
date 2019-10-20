@@ -1,3 +1,3 @@
 print("Inicio do projeto")
 
-print('Teste realizado dia 19/10')
+print('Teste realizado dia 19/10/19')
