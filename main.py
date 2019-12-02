@@ -1333,7 +1333,7 @@ class App():
         menu.add_cascade(label="Opções",menu=segundomenu)
 
     def Sair(self):
-        root.destroy()
+        self.telaInicio()
 
 def main():
     root.geometry("600x550+500+150")
